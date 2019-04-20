@@ -1,3 +1,9 @@
+Funkcionalumas patikrintas 
+  -  Microsoft Edge 42.17134.1.0
+  -  Firefox Quantum 65.0.2 (64-bit)
+
+
+
 # MT-Lab2
 
 Šio laboratorinio darbo tikslas - sukurti savo virtualiosios realybės (VR) taikomąją programėlę (aplikaciją).
